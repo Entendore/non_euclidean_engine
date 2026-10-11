@@ -1,0 +1,16 @@
+pub mod renderer;
+pub mod camera;
+pub mod input;
+pub mod game;
+pub mod particles;
+pub mod effects;
+pub mod illusion;
+pub mod wall_builder;
+pub mod portal_system;
+pub mod collectible_manager;
+pub mod audio;
+pub mod trigger_system;
+pub mod geometry_transition;
+pub mod trail_system;
+pub mod ambient_system;
+pub mod hud_system;
